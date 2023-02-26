@@ -10,4 +10,4 @@ A mini project to demonstrate how to apply design rules and guidelines like:
 For more design rules visit: Pdf
 
 #### Project review
-[![Netlify Status](https://matthew-oduamafu.github.io/05-Design/)](https://matthew-oduamafu.github.io/05-Design/)
+[![Lisbon Char Shop](https://matthew-oduamafu.github.io/05-Design/)](https://matthew-oduamafu.github.io/05-Design/)
