@@ -7,7 +7,7 @@ A mini project to demonstrate how to apply design rules and guidelines like:
   <li>Spacing</li>
   <li>Images</li>
 </ul>
-For more design rules visit: [Pdf](https://drive.google.com/file/d/1GtkyIvVFTg59LB26zUjNPTuDYpWSmoWQ/view?usp=sharing)
+For more design rules visit: [Pdf].(https://drive.google.com/file/d/1GtkyIvVFTg59LB26zUjNPTuDYpWSmoWQ/view?usp=sharing)
 
 #### Project review
 [![Lisbon Char Shop](https://github.com/Matthew-Oduamafu/05-Design/blob/master/design.png?raw=true)](https://matthew-oduamafu.github.io/05-Design/)
